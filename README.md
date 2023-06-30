@@ -1,5 +1,4 @@
-# Mechatronics
-DIY Camera Slider with Pan and Tilt Head
+# Mechatronics: DIY Camera Slider with Pan and Tilt Head
 
 Project Subject for the "Introduction to Mechtronic": DIY Camera Slider with Pan and Tilt Head
 
